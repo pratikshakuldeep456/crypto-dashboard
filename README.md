@@ -1,6 +1,6 @@
 # crypto-dashboard
 
-# Clone the repository
+
 git clone https://github.com/pratiksha456/crypto-dashboard.git
 cd crypto-dashboard
 
