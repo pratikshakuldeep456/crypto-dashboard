@@ -1,7 +1,7 @@
 # crypto-dashboard
 
 # Clone the repository
-git clone https://github.com/your-username/crypto-dashboard.git
+git clone https://github.com/pratiksha456/crypto-dashboard.git
 cd crypto-dashboard
 
 # Set up environment variables for MongoDB (replace with your actual values)
